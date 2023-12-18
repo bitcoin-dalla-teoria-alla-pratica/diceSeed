@@ -1,0 +1,15 @@
+.*.sw[a-z]
+.*.swp
+.*~
+
+# Ignore generated files
+dadoBinario.*
+dadoInChiaro.*
+recap.txt
+seed.txt
+debug.txt
+
+# Ignore system and user-specific files
+.DS_Store
+Thumbs.db
+
